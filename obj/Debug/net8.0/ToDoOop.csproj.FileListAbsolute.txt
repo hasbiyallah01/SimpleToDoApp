@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\CLHPro\ToDoOop\bin\Debug\net8.0\ToDoOop.exe
+C:\Users\HP\Documents\CLHPro\ToDoOop\bin\Debug\net8.0\ToDoOop.deps.json
+C:\Users\HP\Documents\CLHPro\ToDoOop\bin\Debug\net8.0\ToDoOop.runtimeconfig.json
+C:\Users\HP\Documents\CLHPro\ToDoOop\bin\Debug\net8.0\ToDoOop.dll
+C:\Users\HP\Documents\CLHPro\ToDoOop\bin\Debug\net8.0\ToDoOop.pdb
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.AssemblyInfo.cs
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.dll
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\refint\ToDoOop.dll
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.pdb
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ToDoOop.genruntimeconfig.cache
+C:\Users\HP\Documents\CLHPro\ToDoOop\obj\Debug\net8.0\ref\ToDoOop.dll
