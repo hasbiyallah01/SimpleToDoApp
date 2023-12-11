@@ -3,4 +3,5 @@
 using ToDoOop;
 
 Menu menu = new Menu();
-menu.mainMenu(); 
+menu.mainMenu();
+System.Console.WriteLine("My name is hasbiy");
